@@ -1,12 +1,9 @@
 # 2048
 code for game 2048
-
+***uses PennDraw features***
 How to run?: 
 simply compile and type "java Game" to the compiler.
 click on the screen and press w,a,s, or d, to move the tiles 
-
-Extra credit/additional features: I added a color gradient to the tiles.
-each number value has its own color 
 
 File Descriptions:
 
