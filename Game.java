@@ -1,8 +1,4 @@
 /**
-* Name: Lucy Fekade
-* Pennkey: lucyfe
-* Execution: java Game
-*
 * Description: this class runs the game until the player has either lost or won
 **/
 public class Game {
