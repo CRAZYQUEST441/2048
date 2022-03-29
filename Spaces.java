@@ -1,8 +1,4 @@
 /**
-* Name: Lucy Fekade
-* Pennkey: lucyfe
-* Execution: N/A
-*
 * Description: This class creates the spaces or tiles that go on to the board
 **/
 public class Spaces {
