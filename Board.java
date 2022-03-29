@@ -1,8 +1,4 @@
 /**
-* Name: Lucy Fekade
-* Pennkey: lucyfe
-* Execution: N/A no main
-*
 * Description: this class creates the board on which the game is played
 **/
 public class Board {
